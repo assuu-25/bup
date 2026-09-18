@@ -1,4 +1,8 @@
+
+
+streamlit
 fastapi
 uvicorn
 pydantic
 pulp
+requests
